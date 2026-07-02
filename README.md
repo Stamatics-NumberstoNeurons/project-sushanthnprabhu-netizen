@@ -117,18 +117,6 @@ Epochs:
 1000
 
 ---
-
-## Libraries Used
-
-Only the following libraries were used:
-
-* NumPy
-* Matplotlib
-
-No machine learning frameworks such as TensorFlow, PyTorch, or Scikit-learn were used.
-
----
-
 ## Training Process
 
 During training, the following steps were repeated for each sample:
